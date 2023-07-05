@@ -1,7 +1,7 @@
-Membuat VPC A dan B, Subnet untuk setiap VPC, mengonfigurasi security group dan route table, memasang internet gateway, membuat koneksi dengan VPC Peering, dan mengujinya langsung dengan melakukan SSH dan Ping.
+### Membuat VPC A dan B, Subnet untuk setiap VPC, mengonfigurasi security group dan route table, memasang internet gateway, membuat koneksi dengan VPC Peering, dan mengujinya langsung dengan melakukan SSH dan Ping.
 
 
-Hasil CMD :
+## Hasil CMD :
 
 Microsoft Windows [Version 10.0.22621.1848]
 (c) Microsoft Corporation. All rights reserved.
