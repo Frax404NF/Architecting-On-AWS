@@ -7,7 +7,7 @@
 3. Gunakan hal-hal yang kita pelajari untuk membentuk pertahanan jaringan multi-layer.
 <!-- ![pertahanan jaringan multi layer](./image/jaringan01.png "pertahanan jaringan multi layer") -->
 
-<img src="./image/jaringan01.png" alt="pertahanan jaringan multi layer" style="height: 250px; width:250px;"/>
+<img src="./image/jaringan01.png" alt="pertahanan jaringan multi layer" style="height: 1920px; width:869px;"/>
 
 Konfigurasi-konfigurasi yang ada di Route Table, Network ACL, dan Security Group pada dasarnya berguna untuk kita mengatur dan mengarahkan lalu lintas jaringan di dalam VPC.Gunakan masing-masing komponen sebagai satu kesatuan dalam membentuk pertahanan jaringan kita. Gambar di atas dapat membantu memvisualisasikan hubungan masing-masing komponen.
 
