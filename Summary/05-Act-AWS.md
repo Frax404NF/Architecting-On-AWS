@@ -5,7 +5,10 @@
 2. Kita juga telah membahas mengenai subnet, gateway, dan keamanan jaringan secara mendalam.
 
 3. Gunakan hal-hal yang kita pelajari untuk membentuk pertahanan jaringan multi-layer.
-![pertahanan jaringan multi layer](./image/jaringan01.png "pertahanan jaringan multi layer").
+<!-- ![pertahanan jaringan multi layer](./image/jaringan01.png "pertahanan jaringan multi layer") -->
+
+<img src="./image/jaringan01.png" alt="pertahanan jaringan multi layer" style="height: 250px; width:250px;"/>
+
 Konfigurasi-konfigurasi yang ada di Route Table, Network ACL, dan Security Group pada dasarnya berguna untuk kita mengatur dan mengarahkan lalu lintas jaringan di dalam VPC.Gunakan masing-masing komponen sebagai satu kesatuan dalam membentuk pertahanan jaringan kita. Gambar di atas dapat membantu memvisualisasikan hubungan masing-masing komponen.
 
 4. Berikut adalah hal-hal mendasar yang harus dilakukan untuk memastikan akses internet dari dalam VPC.
