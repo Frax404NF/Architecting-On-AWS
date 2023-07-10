@@ -19,6 +19,14 @@ Oke, itulah pembahasan kita kali ini mengenai elastisitas, ketersediaan tinggi, 
 - [x] Hands-on Lab: Membangun Arsitektur yang High Available (Sangat Tersedia) - Pengujian
 
 ### Hasil Pengerjaan Hands-On :
-1. <img src="./image/Hands-On-8-1.png" alt="Pengujian load balancer"/>
-2. <img src="./image/Hands-On-8-2.png" alt="Pengujian load balancer kedua"/>
-3. <img src="./image/Hands-On-8-3.png" alt="Pengujian auto scaling"/>
+
+<div align="center">
+<p> <img src="./image/Hands-On-8-1.png" alt="Pengujian load balancer"/> </p>
+<p> Fig.1 - Pengujian load balancer </p>
+
+<img src="./image/Hands-On-8-2.png" alt="Pengujian load balancer kedua"/>
+Fig.2 - Pengujian load balancer kedua
+
+<img src="./image/Hands-On-8-3.png" alt="Pengujian auto scaling"/>
+Fig.3 - Pengujian auto scaling
+</div>
