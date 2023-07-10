@@ -21,12 +21,12 @@ Oke, itulah pembahasan kita kali ini mengenai elastisitas, ketersediaan tinggi, 
 ### Hasil Pengerjaan Hands-On :
 
 <div align="center">
-<p> <img src="./image/Hands-On-8-1.png" alt="Pengujian load balancer"/> </p>
+<img src="./image/Hands-On-8-1.png" alt="Pengujian load balancer"/>
 <p> Fig.1 - Pengujian load balancer </p>
 
 <img src="./image/Hands-On-8-2.png" alt="Pengujian load balancer kedua"/>
-Fig.2 - Pengujian load balancer kedua
+<p> Fig.2 - Pengujian load balancer kedua </p>
 
 <img src="./image/Hands-On-8-3.png" alt="Pengujian auto scaling"/>
-Fig.3 - Pengujian auto scaling
+<p> Fig.3 - Pengujian auto scaling <p>
 </div>
