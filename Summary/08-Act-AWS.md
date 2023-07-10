@@ -12,14 +12,13 @@ Di modul ini kita telah belajar banyak hal mengenai elastisitas, ketersediaan ti
 
 Oke, itulah pembahasan kita kali ini mengenai elastisitas, ketersediaan tinggi, dan pemantauan. Selanjutnya, Anda akan belajar ke level tinggi. Maka dari itu, tetap semangat ya!
 
+### Hands-On : 
+- [x] Hands-on Lab: Membangun Arsitektur yang Highly Available (Sangat Tersedia) 
+- [x] Hands-on Lab: Membangun Arsitektur yang Highly Available (Sangat Tersedia) - Membuat Load Balancer
+- [x] Hands-on Lab: Membangun Arsitektur yang High Available (Sangat Tersedia) - Meluncurkan Auto Scaling
+- [x] Hands-on Lab: Membangun Arsitektur yang High Available (Sangat Tersedia) - Pengujian
 
-Hands-On : 
-[x] 1. Hands-on Lab: Membangun Arsitektur yang Highly Available (Sangat Tersedia) 
-[x] 2. Hands-on Lab: Membangun Arsitektur yang Highly Available (Sangat Tersedia) - Membuat Load Balancer
-[x] 3. Hands-on Lab: Membangun Arsitektur yang High Available (Sangat Tersedia) - Meluncurkan Auto Scaling
-[x] 4. Hands-on Lab: Membangun Arsitektur yang High Available (Sangat Tersedia) - Pengujian
-
-Hasil Pengerjaan Hands-On :
+### Hasil Pengerjaan Hands-On :
 1. <img src="./image/Hands-On-8-1.png" alt="Pengujian load balancer"/>
 2. <img src="./image/Hands-On-8-2.png" alt="Pengujian load balancer kedua"/>
 3. <img src="./image/Hands-On-8-3.png" alt="Pengujian auto scaling"/>
