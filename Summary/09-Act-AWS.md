@@ -78,4 +78,35 @@ Penjelasan Lebih Lanjut :
   - Bagian ini menampilkan nama dan acara TV.
   - Cara kerjanya cukup sederhana. Setiap request yang dilakukan akan menampilkan nama pengguna secara acak dan memuat rekomendasi yang dipetakan secara statis ke pengguna tersebut. Nama pengguna, judul acara TV, dan proses pemetaan berada di sebuah DynamoDB table.
 - Bagian di bawah garis menunjukkan metadata yang berguna bagi Anda pada latihan kali ini
-  - Bagian instance_id dan availability_zone memudahkan Anda untuk melihat EC2 instance dan Availability Zone mana yang sedang melayani request masuk.
+  - Bagian **instance_id** dan **availability_zone** memudahkan Anda untuk melihat EC2 instance dan Availability Zone mana yang sedang melayani request masuk.
+
+- [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Mengulas CloudFormation Template**
+pada hands-on ini kita menjelajahi template dan belajar bagaimana kita bisa men-deploy aplikasi web menggunakan template tersebut.
+- Terdapat beberapa bagian yang dijelaskan di dicoding seperti :
+ - InstanceType (ni adalah bagian di mana kita bisa memilih tipe instance yang akan digunakan untuk men-deploy server untuk aplikasi web)
+ - Web1LaunchConfig (Ini adalah launch configuration yang kita gunakan untuk Auto Scaling)
+ - Resources (Bagian ini merupakan “jantung” dari template. Di sinilah Anda menentukan infrastruktur yang akan di-deploy)
+  - DynamoDB. Ini adalah Amazon DynamoDB table yang digunakan sebagai recommendation engine pada aplikasi web kita.
+ - Outputs (Bagian ini digunakan untuk menampilkan informasi tertentu mengenai sumber daya di dalam CloudFormation stack setelah proses provisioning selesai)
+  - Pada kasus ini, kita menggunakan function bawaan !GetAtt untuk mendapatkan DNSName (nama DNS) dari Application Load Balancer.
+ -  Metadata (Bagian ini kita gunakan untuk mengelompokkan dan mengatur bagaimana CloudFormation template ditampilkan saat Anda men-deploy template menggunakan AWS Console)
+
+<div align="center">
+<img src="./image/HO-09/Hands-On-9-6.png" alt="Contoh Penjelasan"/>
+<p> Fig.7 - Contoh Penjelasan Template
+</p>
+
+- [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Menambahkan S3 Bucket**
+- Melakukan update pada CloudFormation stack 
+ - Menambahkan konfigurasi YAML Lalu Mengupdate/Mengreplace File YAML Pada AWS Stack Untuk Menambahkan S3 Bucket
+```
+  MyS3Bucket:
+    Type: AWS::S3::Bucket
+```
+<div align="center">
+<img src="./image/HO-09/Hands-On-9-7.png" alt="Penambahan Konfigurasi"/>
+<p> Fig.8 - Melakukan Update Pada CloudFormation stack Untuk Menambahkan S3 Bucket
+</p>
+
+- [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Menghapus Stack
+- Menghapus Stack Yang Sudah Dibuat Untuk Menghindari Tagihan
