@@ -95,6 +95,7 @@ pada hands-on ini kita menjelajahi template dan belajar bagaimana kita bisa men-
 <img src="./image/HO-09/Hands-On-9-6.png" alt="Contoh Penjelasan"/>
 <p> Fig.7 - Contoh Penjelasan Template
 </p>
+</div>
 
 - [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Menambahkan S3 Bucket**
 - Melakukan update pada CloudFormation stack 
@@ -107,6 +108,7 @@ pada hands-on ini kita menjelajahi template dan belajar bagaimana kita bisa men-
 <img src="./image/HO-09/Hands-On-9-7.png" alt="Penambahan Konfigurasi"/>
 <p> Fig.8 - Melakukan Update Pada CloudFormation stack Untuk Menambahkan S3 Bucket
 </p>
+</div>
 
 - [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Menghapus Stack
 - Menghapus Stack Yang Sudah Dibuat Untuk Menghindari Tagihan
