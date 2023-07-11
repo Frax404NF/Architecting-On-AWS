@@ -35,15 +35,14 @@ https://youtu.be/NACJllOP1Wk
 - Memperbarui CloudFormation stack untuk menambahkan S3 bucket.
 - Menghapus CloudFormation stack.
 
-- [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Deploy VPC
+- [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Deploy VPC**
 
 <div align="center">
 <img src="./image/HO-09/Hands-On-9-1.png" alt="Pembuatan CloudFormation"/>
 <p> Fig.2 - Pembuatan CloudFormation Untuk Deploy VPC Secara Automasi</p>
 </div>
 
-- [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Deploy Aplikasi Web dan Infrastruktur
-CloudFormationLab
+- [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Deploy Aplikasi Web dan Infrastruktur CloudFormationLab**
 
 <div align="center">
 <img src="./image/HO-09/Hands-On-9-2.png" alt="Pembuatan CloudFormation stack"/>
