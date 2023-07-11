@@ -54,9 +54,10 @@ https://youtu.be/NACJllOP1Wk
 <p> Fig.4 - EC2 Instance Yang Dibuat Secara Otomatis Dari Cloudformation Stack</p>
 
 <p> Selain itu terdapat DynamoDB table, Application Load Balancer, dan Auto Scaling yang terbuat secara otomatis dengan AWS CloudFormation. </p>
-<p> *catatan di modul ini terdapat bug pada bagian template dikarenakan versi python pada template masih lawas (3.6) solusinya adalah :
-mengedit file staticwebapp.yaml -> lalu ubah line 435 dari python3.6 ke python3.9 -> deploy kembali CloudFormationLab* </p>
 </div>
+
+*catatan di modul ini terdapat bug pada bagian template dikarenakan versi python pada template masih lawas (3.6) solusinya adalah :
+mengedit file staticwebapp.yaml -> lalu ubah line 435 dari python3.6 ke python3.9 -> deploy kembali CloudFormationLab*
 
 - [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Menguji Aplikasi Web**
 
@@ -67,8 +68,9 @@ mengedit file staticwebapp.yaml -> lalu ubah line 435 dari python3.6 ke python3.
 
 <img src="./image/HO-09/Hands-On-9-5.png" alt="Amazon EC2 Instance"/>
 <p> Fig.6 - Pengujian Aplikasi Web Setelah Dilakukan Refresh Terdapat Perubahan </p>
+</div>
 
-<p>  Penjelasan Lebih Lanjut :
+Penjelasan Lebih Lanjut :
 
 - Aplikasi website tersebut menyimulasikan sebuah recommendation engine (mesin pemberi rekomendasi) yang membuat saran yang dipersonalisasi untuk acara TV klasik. Berikut adalah fitur-fiturnya:
 
@@ -77,6 +79,3 @@ mengedit file staticwebapp.yaml -> lalu ubah line 435 dari python3.6 ke python3.
   - Cara kerjanya cukup sederhana. Setiap request yang dilakukan akan menampilkan nama pengguna secara acak dan memuat rekomendasi yang dipetakan secara statis ke pengguna tersebut. Nama pengguna, judul acara TV, dan proses pemetaan berada di sebuah DynamoDB table.
 - Bagian di bawah garis menunjukkan metadata yang berguna bagi Anda pada latihan kali ini
   - Bagian instance_id dan availability_zone memudahkan Anda untuk melihat EC2 instance dan Availability Zone mana yang sedang melayani request masuk.
-</p>
-
-</div>
