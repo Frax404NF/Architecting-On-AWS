@@ -26,7 +26,7 @@ Tak hanya itu, AWS CloudFormation juga mendukung AWS OpsWorks dan AWS Elastic Be
 https://youtu.be/NACJllOP1Wk
 
 ## Hands-On :
-- [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation
+- [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation**
  ### Tahapan-tahapan yang di lakukan pada latihan ini:
 - Men-deploy VPC menggunakan AWS CloudFormation.
 - Men-deploy aplikasi web dan infrastructure menggunakan AWS CloudFormation.
@@ -47,7 +47,8 @@ CloudFormationLab
 
 <div align="center">
 <img src="./image/HO-09/Hands-On-9-2.png" alt="Pembuatan CloudFormation stack"/>
-<p> Fig.3 - Pembuatan CloudFormation Stack Dengan Nama CloudFormationLab Menggunakan Template https://dicodingawscourse.s3-ap-southeast-1.amazonaws.com/staticwebapp.yaml </p>
+<p> Fig.3 - Pembuatan CloudFormation Stack Dengan Nama CloudFormationLab Menggunakan Template [Template YAML Dari Dicoding](https://dicodingawscourse.s3-ap-southeast-1.amazonaws.com/staticwebapp.yaml)
+</p>
 
 <img src="./image/HO-09/Hands-On-9-3.png" alt="Amazon EC2 Instance"/>
 <p> Fig.4 - EC2 Instance Yang Dibuat Secara Otomatis Dari Cloudformation Stack</p>
