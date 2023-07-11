@@ -82,8 +82,7 @@ Penjelasan Lebih Lanjut :
 
 - [x] **Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Mengulas CloudFormation Template**
 
-
-pada hands-on ini kita menjelajahi template dan belajar bagaimana kita bisa men-deploy aplikasi web menggunakan template tersebut.
+Pada hands-on ini kita menjelajahi template dan belajar bagaimana kita bisa men-deploy aplikasi web menggunakan template tersebut.
 - Terdapat beberapa bagian yang dijelaskan di dicoding seperti :
  - InstanceType (ni adalah bagian di mana kita bisa memilih tipe instance yang akan digunakan untuk men-deploy server untuk aplikasi web)
  - Web1LaunchConfig (Ini adalah launch configuration yang kita gunakan untuk Auto Scaling)
@@ -113,6 +112,5 @@ pada hands-on ini kita menjelajahi template dan belajar bagaimana kita bisa men-
 </div>
 
 - [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Menghapus Stack
-
 
 Menghapus Stack Yang Sudah Dibuat Untuk Menghindari Tagihan
