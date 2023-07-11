@@ -27,7 +27,7 @@ https://youtu.be/NACJllOP1Wk
 
 ## Hands-On :
 - [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation
- ### tahapan-tahapan yang akan kita lakukan di latihan ini:
+ ### Tahapan-tahapan yang di lakukan pada latihan ini:
 - Men-deploy VPC menggunakan AWS CloudFormation.
 - Men-deploy aplikasi web dan infrastructure menggunakan AWS CloudFormation.
 - Menguji aplikasi web.
@@ -39,7 +39,18 @@ https://youtu.be/NACJllOP1Wk
 
 <div align="center">
 <img src="./image/HO-09/Hands-On-9-1.png" alt="Pembuatan CloudFormation"/>
-<p> Fig.1 - Pembuatan CloudFormation Untuk Deploy VPC Secara Automasi</p>
+<p> Fig.2 - Pembuatan CloudFormation Untuk Deploy VPC Secara Automasi</p>
 </div>
 
 - [x] Hands-on Lab: Automasi Proses Deploy Infrastruktur dengan AWS CloudFormation - Deploy Aplikasi Web dan Infrastruktur
+CloudFormationLab
+
+<div align="center">
+<img src="./image/HO-09/Hands-On-9-2.png" alt="Pembuatan CloudFormation stack"/>
+<p> Fig.3 - Pembuatan CloudFormation Stack Dengan Nama CloudFormationLab Menggunakan Template https://dicodingawscourse.s3-ap-southeast-1.amazonaws.com/staticwebapp.yaml </p>
+
+<img src="./image/HO-09/Hands-On-9-3.png" alt="Amazon EC2 Instance"/>
+<p> Fig.4 - EC2 Instance Yang Dibuat Secara Otomatis Dari Cloudformation Stack</p>
+
+<p> Selain itu terdapat DynamoDB table, Application Load Balancer, dan Auto Scaling yang terbuat secara otomatis dengan AWS CloudFormation. </p>
+</div>
