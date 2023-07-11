@@ -46,7 +46,8 @@ https://youtu.be/NACJllOP1Wk
 
 <div align="center">
 <img src="./image/HO-09/Hands-On-9-2.png" alt="Pembuatan CloudFormation stack"/>
-<p> Fig.3 - Pembuatan CloudFormation Stack Dengan Nama CloudFormationLab Menggunakan Template [Template YAML Dari Dicoding](https://dicodingawscourse.s3-ap-southeast-1.amazonaws.com/staticwebapp.yaml)
+<p> Fig.3 - Pembuatan CloudFormation Stack Dengan Nama CloudFormationLab Menggunakan Template 
+[Template YAML Dari Dicoding](https://dicodingawscourse.s3-ap-southeast-1.amazonaws.com/staticwebapp.yaml)
 </p>
 
 <img src="./image/HO-09/Hands-On-9-3.png" alt="Amazon EC2 Instance"/>
