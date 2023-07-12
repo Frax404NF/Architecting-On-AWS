@@ -4,15 +4,12 @@ Di modul ini kita telah mempelajari mengenai tiga jenis layanan dari AWS yang me
 
 Ketiga Layanan tersebut adalah Amazon Simple Queue Service (Amazon SQS), Amazon Simple Notification Service (Amazon SNS), dan Amazon MQ.
 
-Amazon MQ, Amazon SQS, dan Amazon SNS adalah layanan perpesanan (messaging) yang cocok untuk siapa pun mulai dari startup hingga perusahaan yang sudah besar. Tabel di bawah ini menunjukkan perbedaan dan penggunaan ketiga layanan Message Broker dari AWS. 
-
-| Amazon MQ | Amazon SQS dan Amazon SNS |
-| — — — — — — | — — — — — — - |
-| Untuk migrasi aplikasi | Untuk aplikasi cloud native |
-| Banyak fitur | Unlimited throughput |
-| Biaya per jam dan biaya per GB | Biaya per request |
-| Bisa melakukan Pub/Sub | Tidak ada Pub/Sub di SQS, tetapi Anda bisa melakukan Pub/Sub di SNS |
-
+| Amazon MQ                      | Amazon SQS dan Amazon SNS                                           |
+|--------------------------------|---------------------------------------------------------------------|
+| Untuk migrasi aplikasi         | Untuk aplikasi cloud native                                         |
+| Banyak fitur                   | Unlimited throughput                                                |
+| Biaya per jam dan biaya per GB | Biaya per request                                                   |
+| Bisa melakukan Pub/Sub         | Tidak ada Pub/Sub di SQS, tetapi Anda bisa melakukan Pub/Sub di SNS |
 
 Jika Anda menggunakan messaging dengan aplikasi yang sudah ada dan ingin memindahkannya ke cloud dengan cepat dan mudah, maka pertimbangkanlah Amazon MQ.
 
