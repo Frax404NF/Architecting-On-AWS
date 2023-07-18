@@ -6,6 +6,7 @@ Di modul ini kita telah mempelajari banyak hal mengenai layanan server dan stora
     - Amazon EC2, yaitu layanan penggunaan Virtual Machines (VM) dari AWS yang hadir dengan banyak kombinasi pilihan antara CPU, GPU, dan Memory.
     - Amazon Machine Images, menyimpan informasi mengenai konfigurasi dari EC2.
     - EC2 Image Builder, layanan pembuatan konfigurasi image yang dikelola sepenuhnya oleh AWS.
+
 2. **Storage**
 
      - Amazon EBS, layanan block level storage atau dikenal juga sebagai disk yang digunakan oleh EC2.

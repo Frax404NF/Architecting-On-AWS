@@ -23,6 +23,5 @@ Kita telah menilik dua jenis layanan database yang tersedia di AWS, yaitu Manage
 
 AWS Database Migration Service adalah layanan migrasi database yang dapat digunakan untuk memindahkan database dari on-premise, Amazon EC2, ataupun Amazon RDS ke Amazon RDS pilihan kita.
 
-
 ## Video Storage dan Database di AWS :
 https://youtu.be/LNoP85bXMN8

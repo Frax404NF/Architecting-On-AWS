@@ -2,6 +2,7 @@
 
 Di modul ini, kita sudah mempelajari beberapa hal terkait arsitektur yang sederhana, antara lain:
 
+
 1. **Amazon S3**
 
     Amazon S3 adalah layanan dari AWS untuk menyimpan file berbasis objek (object storage). Artinya, file yang disimpan di S3 akan diperlakukan sebagai sebuah objek yang utuh. Kita juga telah menguraikan beberapa kasus penggunaan pada Amazon S3. Bahkan, kita telah belajar tentang Amazon S3 Glacier dan apa perbedaannya dengan Amazon S3.

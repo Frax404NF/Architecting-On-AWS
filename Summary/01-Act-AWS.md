@@ -1,5 +1,7 @@
 # Ikhtisar Pendahuluan
-Di modul ini, kita sudah mempelajari secara singkat hal-hal sebagai berikut:
+Di modul ini, kita sudah mempelajari secara singkat hal-hal sebagai 
+berikut:
+
 
 1. **AWS Well-Architected Framework**
 
@@ -11,7 +13,7 @@ Di modul ini, kita sudah mempelajari secara singkat hal-hal sebagai berikut:
 
 3. **AWS Global Infrastructure**
 
-    Memberikan dasar pengertian bagaimana infrastruktur global AWS disusun dan bekerja.
-
+    Memberikan dasar pengertian bagaimana infrastruktur global AWS disusun dan bekerja. 
+    
 ## Video Pengenalan Cloud Computing :
 https://youtu.be/DJHYwyJzxVg
